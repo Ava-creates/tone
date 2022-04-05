@@ -1,0 +1,23 @@
+body
+{
+    background-color: antiquewhite;
+}
+div
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    
+    
+}
+
+.keys
+{
+    width: 200px;
+    height: 350px;
+    background-color: white;
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: solid;
+
+}
